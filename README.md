@@ -16,3 +16,4 @@ This is a way of me tracking the layouts that I have, and tracking whatever issu
 * [Review of the Planck](https://www.penaddict.com/blog/2021/5/19/the-olkb-planck-keyboard-review)
 * [Article about the Kyria](https://blog.splitkb.com/blog/introducing-the-kyria)
 * [Article about layouts for the preonic](https://www.smittey.co.uk/the-planck-key-theory), with really useful links about how to organize keys.
+* [Ben Vallack's video about making a36 key layout (incluudes pointers making sure layers are idempotent)](https://www.youtube.com/watch?v=WA_GUYS8UJg)
