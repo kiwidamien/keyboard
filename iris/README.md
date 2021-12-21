@@ -32,3 +32,7 @@ The `rules.mk` file is located at
 `rules.mk` contains some great configurations, including the ability
 to put in other source files that won't get overwritten when generating
 new keymaps. See the use of SRC and the addition of `rotatary_encoder.c`
+
+You can see the combos that we have added to the keyboard by looking at
+the `combo.c` file in `kiwidamien` directory above. We can also just use
+the symbolic link.
