@@ -8,7 +8,7 @@
   "layers": [
     [
       "LT(2,KC_TAB)",
-      "KC_Q",
+      "LT(3,KC_Q)",
       "KC_W",
       "KC_E",
       "KC_R",
@@ -41,12 +41,12 @@
       "KC_M",
       "KC_COMM",
       "KC_DOT",
-      "LCTL(KC_SLSH)",
+      "LCTL_T(KC_SLSH)",
       "KC_RSPC",
       "KC_LGUI",
       "KC_BSPC",
       "KC_SPC",
-      "KC_ENT",
+      "KC_SFTENT",
       "KC_EQL",
       "RGUI_T(KC_DEL)"
     ],
@@ -81,7 +81,7 @@
       "TO(3)",
       "KC_F11",
       "KC_NO",
-      "KC_NO",
+      "KC_ENT",
       "KC_END",
       "KC_HOME",
       "KC_NO",
@@ -90,8 +90,8 @@
       "TO(0)",
       "KC_BSPC",
       "KC_SPC",
-      "KC_ENT",
-      "KC_EQL",
+      "KC_GRV",
+      "KC_AT",
       "KC_RGUI"
     ],
     [
@@ -135,7 +135,7 @@
       "KC_BSPC",
       "KC_SPC",
       "KC_SFTENT",
-      "KC_NO",
+      "KC_EQL",
       "KC_LGUI"
     ],
     [
